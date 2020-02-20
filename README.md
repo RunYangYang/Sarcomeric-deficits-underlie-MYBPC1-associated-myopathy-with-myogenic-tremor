@@ -7,10 +7,10 @@ analysis: Area_filter is used to filter out the small vesicles that are
 not part of the fibre; windowSize denotes to the kernal size (e.g. 3*3
 rectangle) for image convolution; neighbor_num specifies the number of
 neighbors you would like to choose for determinging the distance of
-separate fibers nearby. Please refer to the excel file to find the
-optimized parameters for each condition. The purpose of not using
-consistant variables is to maximize the number of fibers (>90%) that
-could be measured.
+separate fibers nearby. The purpose of not using consistant variables 
+is to maximize the number of fibers (>90%) that could be measured as 
+well as reducing errors in feature extraction for images in different 
+quality.
 
 The output consist of three pieces: average of distance between fiber
 centers; average cross-sectional area of fibers; average distance
