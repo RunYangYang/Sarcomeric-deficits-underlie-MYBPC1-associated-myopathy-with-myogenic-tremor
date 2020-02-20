@@ -16,4 +16,6 @@ The output consist of three pieces: average of distance between fiber
 centers; average cross-sectional area of fibers; average distance
 between fibers from edge to edge
 
+Sample used: R-73D_X_004a-3
+
 Author: Runchen Zhao
